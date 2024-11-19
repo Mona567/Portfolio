@@ -68,3 +68,8 @@ h1, h2 {
 .project {
     margin-bottom: 2rem;
 }
+
+#skills {
+    color: purple; /* Set the text color of skills to purple */
+    font-weight: bold; /* Make the skills bold for better emphasis */
+}
